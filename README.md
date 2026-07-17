@@ -18,7 +18,7 @@ This repository contains a progressive, 4-stage data analytics and strategic fra
 ### 📊 Report 1: Exploratory Data Analysis (EDA)
 An in-depth statistical diagnosis of Geldium Finance's 16% imbalanced loan delinquency baseline. This phase identifies structural correlations between high revolving lines, missing financial profiles, and early repayment failures.
 * 🛠️ **Artifact:** Full Analytical Report (PDF)
-* 🔗 **View Document:** [Download / View EDA Report](./reports/1_Exploratory_Data_Analysis.pdf)
+* 🔗 **View Document:** [Download / View EDA Report](Geldium_Finance_EDA_Summary_Report_Meghana.pdf)
 
 <details>
 <summary>📸 Click to view Report Preview</summary>
