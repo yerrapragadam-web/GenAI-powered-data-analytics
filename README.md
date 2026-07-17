@@ -44,7 +44,7 @@ Development of an advanced XGBoost classification pipeline optimized using SMOTE
 ### 💼 Report 3: Business Summary & Strategic Framework
 A concise executive-level brief translating machine learning performance into an actionable business improvement plan. This document establishes a strict **SMART** implementation lifecycle to drop early-to-serious delinquency transitions by 25% within a 90-day production pilot[cite: 3, 6].
 * 🛠️ **Artifact:** Executive Business Summary Document (PDF)[cite: 3]
-* 🔗 **View Document:** [Download / View Executive Brief](./reports/3_Business_Summary_Report_Meghana.pdf)
+* 🔗 **View Document:** [Download / View Executive Brief](Business_Summary_Report_Meghana.pdf)
 
 <details>
 <summary>📸 Click to view Report Preview</summary>
