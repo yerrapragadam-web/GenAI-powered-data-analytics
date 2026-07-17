@@ -31,7 +31,7 @@ An in-depth statistical diagnosis of Geldium Finance's 16% imbalanced loan delin
 ### 🤖 Report 2: Predictive Risk Modeling & Classification
 Development of an advanced XGBoost classification pipeline optimized using SMOTE weighting ($5.25\times$ class balancing) to target delinquent profiles early. Achieving a **0.82 ROC-AUC**, this model prioritizes variables such as `Unfavorable_Payment_Count` and `Credit_Utilization` over demographic predictors.
 * 🛠️ **Artifact:** Machine Learning Performance Brief (PDF)
-* 🔗 **View Document:** [Download / View Modeling Report](./reports/2_Predictive_Risk_Modeling.pdf)
+* 🔗 **View Document:** [Download / View Modeling Report](Predictive_Model_Plan_Submission.pdf)
 
 <details>
 <summary>📸 Click to view Report Preview</summary>
