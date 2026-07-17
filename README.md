@@ -57,7 +57,7 @@ A concise executive-level brief translating machine learning performance into an
 ### 🚀 Report 4: Autonomous Agentic AI Strategy Presentation
 The final strategic capstone outlining the practical operational deployment of an independent AI agent system. This executive slide deck explicitly separates **Fully Autonomous Actions** from **Human-in-the-Loop Safeguards**, anchors decisions in non-technical SHAP interpretability definitions, and sets up explicit fairness controls to eliminate regulatory bias[cite: 3].
 * 🛠️ **Artifact:** High-Impact Executive Presentation Deck (PPTX)[cite: 7]
-* 🔗 **View Presentation:** [Download PowerPoint Slides](./reports/4_Autonomous_AI_Collections_Strategy.pptx)
+* 🔗 **View Presentation:** [Download PowerPoint Slides](Autonomous AI Collections Strategy (1).pdf)
 
 <details>
 <summary>📸 Click to view Deck Preview</summary>
